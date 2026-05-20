@@ -14,6 +14,6 @@ Exploring the vast worlds of Data Science, Web Tech & AI/ML<br>🌱 Currently le
 <br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sweta-Devi269&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
-![](https://nirzak-streak-stats.vercel.app/?user=Sweta-Devi269&theme=dark&hide_border=false)<br/><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta-Devi269&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SmileyCodeee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
+![](https://nirzak-streak-stats.vercel.app/?user=SmileyCodeee&theme=dark&hide_border=false)<br/><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SmileyCodeee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
