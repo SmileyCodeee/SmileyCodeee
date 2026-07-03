@@ -1,11 +1,11 @@
-<h3><b>Hey there! 👋</b></h3>
+<h3><b>Hey there!</b></h3>
 Welcome to my Tech Journal!<br><br>
 
 I'm Sweta, a college student from Assam, India, currently pursuing my BCA.<br>
 This is where I document my tech journey — the things I learn, the projects
 I build, and the experiences I collect along the way.<br><br>
 
-# 🚀 What I'm up to
+# What I'm up to
 Exploring the vast worlds of Data Science, Web Tech & AI/ML<br>
 🌱 Currently learning DSA with Python & C++<br>
 🌐 On a journey to master web development 🚀<br>
